@@ -2,8 +2,7 @@
 
 Welcome to the **Sudoku Solver Example** implemented in SystemVerilog! This project demonstrates how to leverage SystemVerilog constraints to generate valid Sudoku puzzles and verify solutions.
 
-## Run on EDA Playground
-edaplayground.com/x/h6vS
+## Run on [EDA Playground](https://www.edaplayground.com/x/h6vS)
  
 
 ## Project Overview
